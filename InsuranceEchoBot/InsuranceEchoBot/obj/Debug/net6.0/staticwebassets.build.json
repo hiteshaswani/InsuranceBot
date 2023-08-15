@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "f6NxyPIn3BS5LY1fjeQspmf3k3G6KVFXb14DmUbWfW4=",
+  "Source": "InsuranceEchoBot",
+  "BasePath": "_content/InsuranceEchoBot",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "InsuranceEchoBot\\wwwroot",
+      "Source": "InsuranceEchoBot",
+      "ContentRoot": "C:\\Users\\hites\\source\\repos\\InsuranceEchoBot\\InsuranceEchoBot\\wwwroot\\",
+      "BasePath": "_content/InsuranceEchoBot",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\hites\\source\\repos\\InsuranceEchoBot\\InsuranceEchoBot\\wwwroot\\default.htm",
+      "SourceId": "InsuranceEchoBot",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hites\\source\\repos\\InsuranceEchoBot\\InsuranceEchoBot\\wwwroot\\",
+      "BasePath": "_content/InsuranceEchoBot",
+      "RelativePath": "default.htm",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\default.htm"
+    }
+  ]
+}
